@@ -1,0 +1,78 @@
+[20-Feb-2024 08:32:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rootYaBazenga'@'localhost' (using password: YES) in /home/cudohwk6/delete.ilakir.com/fufi/fufiConnection.php on line 19
+[20-Feb-2024 08:32:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rootYaBazenga'@'localhost' (using password: YES) in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 4
+[20-Feb-2024 08:32:48 UTC] email=admin%40ilakir.com&username=hjyvty
+[20-Feb-2024 08:32:48 UTC] 
+[20-Feb-2024 08:32:48 UTC] hjyvty
+[20-Feb-2024 08:32:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 17
+[20-Feb-2024 08:32:48 UTC] check of presence okay
+[20-Feb-2024 08:32:48 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 28
+[20-Feb-2024 08:32:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 30
+[20-Feb-2024 08:32:48 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 83
+[20-Feb-2024 08:33:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rootYaBazenga'@'localhost' (using password: YES) in /home/cudohwk6/delete.ilakir.com/fufi/fufiConnection.php on line 19
+[20-Feb-2024 08:33:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rootYaBazenga'@'localhost' (using password: YES) in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 4
+[20-Feb-2024 08:33:00 UTC] email=admin%40ilakir.com&username=samsang
+[20-Feb-2024 08:33:00 UTC] 
+[20-Feb-2024 08:33:00 UTC] samsang
+[20-Feb-2024 08:33:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 17
+[20-Feb-2024 08:33:00 UTC] check of presence okay
+[20-Feb-2024 08:33:00 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 28
+[20-Feb-2024 08:33:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 30
+[20-Feb-2024 08:33:00 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 83
+[20-Feb-2024 08:34:09 UTC] email=admin%40ilakir.com&username=samsang
+[20-Feb-2024 08:34:09 UTC] 
+[20-Feb-2024 08:34:09 UTC] samsang
+[20-Feb-2024 08:34:09 UTC] check of presence okay
+[20-Feb-2024 08:34:09 UTC] successfully checked 2
+[20-Feb-2024 08:36:20 UTC] email=admin%40ilakir.com&username=samsang
+[20-Feb-2024 08:36:20 UTC] 
+[20-Feb-2024 08:36:20 UTC] samsang
+[20-Feb-2024 08:36:20 UTC] check of presence okay
+[20-Feb-2024 08:36:20 UTC] successfully checked 2
+[20-Feb-2024 08:38:18 UTC] email=admin%40ilakir.com&username=samsang
+[20-Feb-2024 08:38:18 UTC] 
+[20-Feb-2024 08:38:18 UTC] samsang
+[20-Feb-2024 08:38:18 UTC] check of presence okay
+[20-Feb-2024 08:38:18 UTC] successfully checked 2
+[20-Feb-2024 08:39:26 UTC] email=admin%40ilakir.com&username=samsang&token=698800
+[20-Feb-2024 08:39:26 UTC] 
+[20-Feb-2024 08:39:26 UTC] samsang
+[20-Feb-2024 08:39:26 UTC] check of presence okay
+[20-Feb-2024 08:39:26 UTC] successfully deleted information
+[08-Jul-2024 08:32:12 UTC] email=samson%40airesol.org&username=jk
+[08-Jul-2024 08:32:12 UTC] 
+[08-Jul-2024 08:32:12 UTC] jk
+[08-Jul-2024 08:32:12 UTC] check of presence okay
+[08-Jul-2024 08:32:12 UTC] successfully checked 2
+[10-Jul-2024 08:37:08 UTC] email=samson%40airesol.org&username=guest
+[10-Jul-2024 08:37:08 UTC] 
+[10-Jul-2024 08:37:08 UTC] guest
+[10-Jul-2024 08:37:08 UTC] check of presence okay
+[10-Jul-2024 08:37:08 UTC] successfully checked 2
+[10-Jul-2024 08:56:58 UTC] email=samson%40airesol.org&username=guest&token=52219
+[10-Jul-2024 08:56:58 UTC] 
+[10-Jul-2024 08:56:58 UTC] guest
+[10-Jul-2024 08:56:58 UTC] check of presence okay
+[10-Jul-2024 08:57:50 UTC] email=samson%40airesol.org&username=guest&token=52219
+[10-Jul-2024 08:57:50 UTC] 
+[10-Jul-2024 08:57:50 UTC] guest
+[10-Jul-2024 08:57:50 UTC] check of presence okay
+[10-Jul-2024 09:01:30 UTC] email=samson%40airesol.org&username=guest&token=145905
+[10-Jul-2024 09:01:30 UTC] 
+[10-Jul-2024 09:01:30 UTC] guest
+[10-Jul-2024 09:01:30 UTC] check of presence okay
+[10-Jul-2024 09:01:30 UTC] successfully deleted information
+[12-Jul-2024 08:51:08 UTC] email=sales%40ilakir.com&username=la&token=65640
+[12-Jul-2024 08:51:08 UTC] 
+[12-Jul-2024 08:51:08 UTC] la
+[12-Jul-2024 08:51:08 UTC] check of presence okay
+[12-Jul-2024 08:51:08 UTC] successfully deleted information
+[12-Jul-2024 08:53:46 UTC] email=admin%40ilakir.com&username=sa1
+[12-Jul-2024 08:53:46 UTC] 
+[12-Jul-2024 08:53:46 UTC] sa1
+[12-Jul-2024 08:53:46 UTC] check of presence okay
+[12-Jul-2024 08:53:46 UTC] successfully checked 2
+[12-Jul-2024 08:55:28 UTC] email=admin%40ilakir.com&username=sa1&token=729927
+[12-Jul-2024 08:55:28 UTC] 
+[12-Jul-2024 08:55:28 UTC] sa1
+[12-Jul-2024 08:55:28 UTC] check of presence okay
+[12-Jul-2024 08:55:28 UTC] successfully deleted information

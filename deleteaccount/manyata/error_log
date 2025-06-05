@@ -1,0 +1,49 @@
+[20-Feb-2024 08:32:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rootYaBazenga'@'localhost' (using password: YES) in /home/cudohwk6/delete.ilakir.com/fufi/fufiConnection.php on line 19
+[20-Feb-2024 08:32:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rootYaBazenga'@'localhost' (using password: YES) in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 4
+[20-Feb-2024 08:32:48 UTC] email=admin%40ilakir.com&username=hjyvty
+[20-Feb-2024 08:32:48 UTC] 
+[20-Feb-2024 08:32:48 UTC] hjyvty
+[20-Feb-2024 08:32:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 17
+[20-Feb-2024 08:32:48 UTC] check of presence okay
+[20-Feb-2024 08:32:48 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 28
+[20-Feb-2024 08:32:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 30
+[20-Feb-2024 08:32:48 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 83
+[20-Feb-2024 08:33:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rootYaBazenga'@'localhost' (using password: YES) in /home/cudohwk6/delete.ilakir.com/fufi/fufiConnection.php on line 19
+[20-Feb-2024 08:33:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rootYaBazenga'@'localhost' (using password: YES) in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 4
+[20-Feb-2024 08:33:00 UTC] email=admin%40ilakir.com&username=samsang
+[20-Feb-2024 08:33:00 UTC] 
+[20-Feb-2024 08:33:00 UTC] samsang
+[20-Feb-2024 08:33:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 17
+[20-Feb-2024 08:33:00 UTC] check of presence okay
+[20-Feb-2024 08:33:00 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 28
+[20-Feb-2024 08:33:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 30
+[20-Feb-2024 08:33:00 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/cudohwk6/delete.ilakir.com/fufi/deleteAccountRequest.php on line 83
+[20-Feb-2024 08:34:09 UTC] email=admin%40ilakir.com&username=samsang
+[20-Feb-2024 08:34:09 UTC] 
+[20-Feb-2024 08:34:09 UTC] samsang
+[20-Feb-2024 08:34:09 UTC] check of presence okay
+[20-Feb-2024 08:34:09 UTC] successfully checked 2
+[20-Feb-2024 08:36:20 UTC] email=admin%40ilakir.com&username=samsang
+[20-Feb-2024 08:36:20 UTC] 
+[20-Feb-2024 08:36:20 UTC] samsang
+[20-Feb-2024 08:36:20 UTC] check of presence okay
+[20-Feb-2024 08:36:20 UTC] successfully checked 2
+[20-Feb-2024 08:38:18 UTC] email=admin%40ilakir.com&username=samsang
+[20-Feb-2024 08:38:18 UTC] 
+[20-Feb-2024 08:38:18 UTC] samsang
+[20-Feb-2024 08:38:18 UTC] check of presence okay
+[20-Feb-2024 08:38:18 UTC] successfully checked 2
+[20-Feb-2024 08:39:26 UTC] email=admin%40ilakir.com&username=samsang&token=698800
+[20-Feb-2024 08:39:26 UTC] 
+[20-Feb-2024 08:39:26 UTC] samsang
+[20-Feb-2024 08:39:26 UTC] check of presence okay
+[20-Feb-2024 08:39:26 UTC] successfully deleted information
+[02-Apr-2024 04:19:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'diyuz423_samson'@'localhost' to database 'diyuz423_miradi' in /home/diyuz423/domains/delete.ilakir.com/miradi/deleteAccountRequest.php on line 4
+[02-Apr-2024 04:19:09 UTC] email=samson%40airesol.org&username=samson
+[02-Apr-2024 04:19:09 UTC] 
+[02-Apr-2024 04:19:09 UTC] samson
+[02-Apr-2024 04:19:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/diyuz423/domains/delete.ilakir.com/miradi/deleteAccountRequest.php on line 17
+[02-Apr-2024 04:19:09 UTC] check of presence okay
+[02-Apr-2024 04:19:09 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/diyuz423/domains/delete.ilakir.com/miradi/deleteAccountRequest.php on line 28
+[02-Apr-2024 04:19:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/diyuz423/domains/delete.ilakir.com/miradi/deleteAccountRequest.php on line 30
+[02-Apr-2024 04:19:09 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/diyuz423/domains/delete.ilakir.com/miradi/deleteAccountRequest.php on line 83
